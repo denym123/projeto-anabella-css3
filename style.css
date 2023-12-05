@@ -1,0 +1,36 @@
+body{
+  background:#d4d3bc url('images/fundo.png');
+}
+
+#principal {
+    width: 900px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+#menu{
+  background: #c5c5b2;
+  padding: 18px;
+  text-align: center;
+}
+
+#conteudo{  
+  background:  #e8e8d9;
+  padding: 10px;
+}
+
+.centralizar{
+  text-align: center;
+}
+
+h1{
+  color: #828271;
+  padding: 10px;
+}
+
+a{
+  color: #4b566a;
+  text-decoration: none;
+  padding: 5px;
+}
+
